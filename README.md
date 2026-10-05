@@ -18,7 +18,7 @@
 # > Charly March Mesina
 
 <p>
-  Full-stack and mobile engineer with 1+ years of experience building and shipping production applications for international clients. I work across the stack, from mobile development with Flutter, React Native, and Expo to frontend development with React and Vue, backend development with Node.js, PHP, Laravel, and .NET, and databases and cloud services such as MySQL, MongoDB, Firebase, AWS, and Cloudflare. Currently open to remote opportunities.
+  Full-stack and mobile engineer with 1+ years of experience building and shipping production applications for international clients. I work across the stack, from mobile development with Flutter, React Native, Expo, Kotlin and Swift to frontend development with React and Vue, backend development with Node.js, PHP, Laravel, and .NET, and databases and cloud services such as MySQL, MongoDB, Firebase, AWS, and Cloudflare. Currently open to remote opportunities.
 </p>
 
 </div>
