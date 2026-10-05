@@ -28,7 +28,22 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,js,ts,nodejs,php,laravel,dotnet,androidstudio,kotlin,swift,mysql,mongodb,firebase,git,cpp,python,dart,arduino,v,docker,vscode,vue,visualstudio,gradle,dotnet,cs,androidstudio&perline=6" />
+  <img src="### Tech Stack
+
+**Frontend & Mobile**  
+![Frontend & Mobile](https://skillicons.dev/icons?i=flutter,react,vue,html,css,js,ts,kotlin,gradle,androidstudio)
+
+**Backend & APIs**  
+![Backend & APIs](https://skillicons.dev/icons?i=nodejs,php,laravel,dotnet,cs)
+
+**Database & Cloud**  
+![Database & Cloud](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
+
+**AI & Programming**  
+![AI & Programming](https://skillicons.dev/icons?i=python,dart,cpp,v)
+
+**Tools & DevOps**  
+![Tools & DevOps](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio)" />
   
 </div>
 
