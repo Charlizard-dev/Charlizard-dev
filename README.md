@@ -28,20 +28,20 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,js,ts,nodejs,php,laravel,dotnet,android,ios,kotlin,swift,mysql,mongodb,sql,firebase,git,androidstudio,xcode,cpp,python,dart,arduino,visualbasic&perline=8" />
+  <img src="[https://skillicons.dev/icons?i=flutter,react,html,css,js,ts,nodejs,php,laravel,dotnet,android,ios,kotlin,swift,mysql,mongodb,sql,firebase,git,androidstudio,xcode,cpp,python,dart,arduino,visualbasic&perline=8](https://skillicons.dev/icons?i=flutter,react,html,css,js,ts,nodejs,php,laravel,dotnet,androidstudio,kotlin,swift,mysql,mongodb,firebase,git,cpp,python,dart,arduino,v,docker,vscode,vue,visualstudio,gradle,dotnet,cs,androidstudio&perline=6)" />
   
 </div>
 
-### 📱 Mobile & Cross-platform
+### > Mobile & Cross-platform
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### ⚙️ Backend & APIs
+### > Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### 🗄️ Databases
+### > Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-### 🛠️ Tools & Others
+### > Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-0066CC?style=for-the-badge) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![VB](https://img.shields.io/badge/VB-5B2D6F?style=for-the-badge&logo=visual-basic&logoColor=white)
 
 ---
