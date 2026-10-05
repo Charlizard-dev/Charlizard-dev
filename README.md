@@ -24,29 +24,6 @@
 
 ---
 
-## My Tech Stack
-
-<div align="center">
-  
-  <img src="### Tech Stack
-
-**Frontend & Mobile**  
-![Frontend & Mobile](https://skillicons.dev/icons?i=flutter,react,vue,html,css,js,ts,kotlin,gradle,androidstudio)
-
-**Backend & APIs**  
-![Backend & APIs](https://skillicons.dev/icons?i=nodejs,php,laravel,dotnet,cs)
-
-**Database & Cloud**  
-![Database & Cloud](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
-
-**AI & Programming**  
-![AI & Programming](https://skillicons.dev/icons?i=python,dart,cpp,v)
-
-**Tools & DevOps**  
-![Tools & DevOps](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio)" />
-  
-</div>
-
 ### > Mobile & Cross-platform
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
