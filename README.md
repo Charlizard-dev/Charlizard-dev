@@ -28,7 +28,7 @@
 
 <div align="center">
   
-  <img src="[https://skillicons.dev/icons?i=flutter,react,html,css,js,ts,nodejs,php,laravel,dotnet,android,ios,kotlin,swift,mysql,mongodb,sql,firebase,git,androidstudio,xcode,cpp,python,dart,arduino,visualbasic&perline=8](https://skillicons.dev/icons?i=flutter,react,html,css,js,ts,nodejs,php,laravel,dotnet,androidstudio,kotlin,swift,mysql,mongodb,firebase,git,cpp,python,dart,arduino,v,docker,vscode,vue,visualstudio,gradle,dotnet,cs,androidstudio&perline=6)" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,js,ts,nodejs,php,laravel,dotnet,androidstudio,kotlin,swift,mysql,mongodb,firebase,git,cpp,python,dart,arduino,v,docker,vscode,vue,visualstudio,gradle,dotnet,cs,androidstudio&perline=6" />
   
 </div>
 
