@@ -67,7 +67,7 @@
         <sub>GitHub</sub>
       </td>
       <td align="center">
-        <a href="https://charlymm-portfolio.netlify.app/">
+        <a href="https://charlymm-portfolio.netlify.app/](https://charlymarchmesina.com/">
           <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&size=large" alt="Portfolio"/>
         </a>
         <br>
