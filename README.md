@@ -7,7 +7,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charly-march-mesina)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/charly.mesinaa)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chalizard-dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charlymm-portfolio.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charlymarchmesina.com/)
 
 </div>
 
@@ -67,7 +67,7 @@
         <sub>GitHub</sub>
       </td>
       <td align="center">
-        <a href="https://charlymm-portfolio.netlify.app/](https://charlymarchmesina.com/">
+        <a href="https://charlymarchmesina.com/">
           <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&size=large" alt="Portfolio"/>
         </a>
         <br>
